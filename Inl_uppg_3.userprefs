@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inl_uppg_3/Form1.cs">
+    <Files>
+      <File FileName="Inl_uppg_3/Form1.cs" Line="36" Column="16" />
+      <File FileName="Inl_uppg_3/Hang.cs" Line="22" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Johan/Documents/Skola/OOP/01/03 HangMan/Inl_uppg_3/Form1.cs" line="116" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
