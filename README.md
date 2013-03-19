@@ -1,4 +1,5 @@
 Hangman
 =======
 
-School project at Malmö Högskola
+School project at Malmö Högskola <br>
+Classic word guessing game
